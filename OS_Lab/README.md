@@ -14,9 +14,6 @@ Assignment-3
 
 Orphan Process (lab_3_a), Zombie Process (lab_3_b) and Multi-Process (lab_3_c)
 
-Assignment-4 
-( Not uploaded here )
-
 Assignment-5
 
 Multi-thread program of fibonacci series (lab_5_a) and C program to show multiple threads with local, global and static variables (lab_5_b)
